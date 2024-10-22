@@ -16,10 +16,11 @@
 ### Welcome to my GitHub profile! 🌱
 I’m an undergraduate at the University of Colombo School of Computing, passionate about blending creativity and technology to solve real-world problems. Whether it’s building software applications, exploring new tech stacks, or collaborating on innovative projects, I’m always eager to learn and grow. 💻
 
-- 📚 Currently learning software development, with a keen interest in web technologies and algorithms
+- 🔭 I’m currently working on [LudoCs](https://github.com/RavinduIT/LudoCs)
+- 🌱 I’m currently learning **Java**
+- 📫 How to reach me: **ravinduarduino1000@gmail.com**
 - 🌟 Exploring open-source contributions and collaborative projects
 - 🎯 Aspiring to make an impact in the tech world, one line of code at a time
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ravindu-lakshan-weerasinghe-548769298/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -30,6 +31,11 @@ I’m an undergraduate at the University of Colombo School of Computing, passion
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
