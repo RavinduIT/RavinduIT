@@ -17,6 +17,8 @@
 
  **<h3 align="left">I'm a passionate IT enthusiast with a love for technology and problem-solving. My journey into the tech world began when I discovered the power of coding, and ever since, I've been on a mission to explore the vast landscape of software development and data science.</h3>**
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Devoloping a **
