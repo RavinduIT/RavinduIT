@@ -40,6 +40,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavinduIT&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 ## GitHub Contributions
-![GitHub contributions](https://github.com/RavinduIT/RavinduIT/blob/main/path-to-image.png)
+<p![GitHub contributions](https://github.com/RavinduIT/RavinduIT/blob/main/path-to-image.png)/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduit" alt="ravinduit" /></a> </p>
