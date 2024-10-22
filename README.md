@@ -39,6 +39,9 @@ I’m an undergraduate at the University of Colombo School of Computing, passion
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ravindu-Lakshan&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-Lakshan&layout=compact)](https://github.com/Ravindu-Lakshan/github-readme-stats)
 
+### Contributions
+![Ravindu's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravindu-Lakshan&theme=react-dark)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Support:
