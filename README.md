@@ -39,12 +39,7 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RavinduIT&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+## GitHub Contributions
+![GitHub contributions](https://github.com/RavinduIT/RavinduIT/blob/main/path-to-image.png)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduit" alt="ravinduit" /></a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravinduit&show_icons=true&locale=en&layout=compact" alt="ravinduit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravinduit&show_icons=true&title_color=762e2e&text_color=5cceff&bg_color=c70000&locale=en" alt="ravinduit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravinduit&theme=dark" alt="ravinduit" /></p>
