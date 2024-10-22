@@ -16,12 +16,14 @@
 <p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/RavinduIT" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Ravindu Lakshan Weerasinghe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">I'm a passionate IT enthusiast with a love for technology and problem-solving. My journey into the tech world began when I discovered the power of coding, and ever since, I've been on a mission to explore the vast landscape of software development and data science.</h3>**
+ 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Devoloping a **
 - 🌱 I'm currently learning: **📚 Exploring ML**
 - 💬 Ask me about: **💡 C, C++, Python, Java, JS, CSS, HTML, SQL, PHP**
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
  **<h3 align="left">Skills</h3>**
 
