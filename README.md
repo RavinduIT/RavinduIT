@@ -1,4 +1,4 @@
-![Background GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250207T092003Z&X-Amz-Expires=300&X-Amz-Signature=bda0175b7762d9ba66d3d69d60c5229ea8828e09a08663068fd49e4ae00314d0&X-Amz-SignedHeaders=host)
+![Background GIF](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif)
 
 # 👋 Hi, I'm Ravindu Lakshan
 
