@@ -1,4 +1,4 @@
-![👋 Hi, I'm Ravindu Lakshan](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
+![👋 Hi, I'm Ravindu Lakshan]([https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif))
 
 ![Profile views](https://komarev.com/ghpvc/?username=RavinduIT&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -20,7 +20,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <h3 align="left">Rapid Fire</h3>
 
-- 💼 I'm currently working on: **💻 Devoloping a **
+- 💼 I'm currently working on: **💻 Devoloping a**
 - 🌱 I'm currently learning: **📚 Exploring ML**
 - 💬 Ask me about: **💡 C, C++, Python, Java, JS, CSS, HTML, SQL, PHP**
    
