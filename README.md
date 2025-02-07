@@ -1,4 +1,4 @@
-![Background GIF](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif)
+![alt README header](https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png)
 
 # 👋 Hi, I'm Ravindu Lakshan
 
