@@ -1,4 +1,4 @@
-![👋 Hi, I'm Ravindu Lakshan]([https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250207T092003Z&X-Amz-Expires=300&X-Amz-Signature=bda0175b7762d9ba66d3d69d60c5229ea8828e09a08663068fd49e4ae00314d0&X-Amz-SignedHeaders=host])
+![👋 Hi, I'm Ravindu Lakshan]<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RavinduIT&label=Profile%20views&color=0e75b6&style=flat)
 
