@@ -1,7 +1,6 @@
-<div style="position: relative; text-align: center; color: white;">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250207T092003Z&X-Amz-Expires=300&X-Amz-Signature=bda0175b7762d9ba66d3d69d60c5229ea8828e09a08663068fd49e4ae00314d0&X-Amz-SignedHeaders=host" alt="Background GIF" style="width: 100%; position: absolute; top: 0; left: 0; z-index: -1;">
-  <h1>👋 Hi, I'm Ravindu Lakshan</h1>
-</div>
+![Background GIF](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250207T092003Z&X-Amz-Expires=300&X-Amz-Signature=bda0175b7762d9ba66d3d69d60c5229ea8828e09a08663068fd49e4ae00314d0&X-Amz-SignedHeaders=host)
+
+# 👋 Hi, I'm Ravindu Lakshan
 
 ![Profile views](https://komarev.com/ghpvc/?username=RavinduIT&label=Profile%20views&color=0e75b6&style=flat)
 
