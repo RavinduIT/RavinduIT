@@ -1,4 +1,4 @@
-![👋 Hi, I'm Ravindu Lakshan](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
+![👋 Hi, I'm Ravindu Lakshan](https://github.com/RavinduIT/RavinduIT/blob/645af1179e800e4238a5d98a64b017b0bf346ba9/e1838ba5fafa720779567659fec8ded243cf3c7e.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=RavinduIT&label=Profile%20views&color=0e75b6&style=flat)
 
