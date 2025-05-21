@@ -20,9 +20,8 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <h3 align="left">Rapid Fire</h3>
 
-- 💼 I'm currently working on: **💻 Devoloping a**
-- 🌱 I'm currently learning: **📚 Exploring ML**
-- 💬 Ask me about: **💡 C, C++, Python, Java, JS, CSS, HTML, SQL, PHP**
+- 🌱 I'm Interested in: **📚 Cyber Security**
+- 💬 Skills: **💡 C, C++, Python, JavaScript, TypeScript, React, CSS, HTML, TailwindCss, SQL, PHP, Flask**
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
  <h3 align="left">Skills</h3>
