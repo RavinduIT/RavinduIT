@@ -25,7 +25,6 @@ I'm a passionate IT enthusiast with a love for technology and problem-solving. M
 - 🌱 I'm interested in **📚 Cyber Security**
 - 🌍 I'm based in **Colombo, Sri Lanka**
 - 💬 Ask me about **Programming, Cyber Security, and Technology**
-- ⚡ Fun fact: **[Something interesting about yourself]**
 
 </details>
 
@@ -115,14 +114,3 @@ I'm a passionate IT enthusiast with a love for technology and problem-solving. M
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-
-### 📈 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
